@@ -1,3 +1,9 @@
+// mysql-ctl cli
+// use join_us;
+// exit
+// run this in terminal
+// node section16NodeJS/app.js
+
 //var faker = require('faker');
 //var mysql = require('mysql');
 
